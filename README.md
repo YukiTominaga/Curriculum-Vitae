@@ -4,73 +4,122 @@
 
 |key|value|
 |---|-----|
-|Name|ふー　ばー (Foo Bar)|
-|Blog|[ふーばーブログ](http://foobar.blog.com)|
-|Twitter|[@foobar](https://twitter.com/foobar)|
+|Name|富永 裕貴 (Yuki Tominaga)|
+|Blog|[apps-gcp](https://www.apps-gcp.com/author/tominaga/)|
+|Twitter|[@XEN_13](https://twitter.com/XEN_13)|
+
+## 資格
+- Google Certified Professional Cloud Architect (2017/12 ~)
+- Google Certified Professional Data Engineer   (2018/01 ~)
+- Google Certified Professional Cloud Developer (2019/01 ~) 
+- Google Certified Associate Cloud Engineer     (2018/08 ~)
+- Certified Kubernetes Application Developer    (2019/03 ~)
+- Google Cloud Authorized Trainer               (2018/05 ~)
 
 ## スキル
 ### 言語
-- Ruby
-- PHP
-- Java
-- などなど
+
+- TypeScript
+- Golang
 
 ### フレームワーク
 
-- Ruby on Rails
-- Laravel
-- Spring Boot
-- などなど
+- Angular
 
 ### その他
 
-- 言語やフレームワークに限らないスキル。開発手法やプロセス、ツールなど
+- Google Cloud Platform
+- Kubernetes
+- Docker
+- Knative
+- Terraform
+- Pulumi
 
 ## 言語
 
 - 日本語
   - ネイティブ
 - 英語
-  - かんたんな日常会話ができる
-  - TOEIC: xxx点
+  - 技術文書のReading
+  - 英語サポート窓口への英語での問い合わせ
 
 ## 強み
 
+- Google Cloud Authorized Trainer
+- FFXIV 7200時間以上プレイ
+
 ## やったことはないが興味があるもの
+
+- Istio
+- Apigee
 
 ## 職務経歴
 
-### yyyy/mm - 現在 : 会社名
+### 2017/11 - 現在 : クラウドエース株式会社
 
-職務: Webアプリケーションエンジニア（例）
+職務: リードエンジニア
 
-#### 職務内容の名前（レストラン検索とか）
+#### Cloud Speech to Textを用いた日報の音声入力
 
-- 職務内容の詳細を箇条書きでかく
+- NodeJS
+- Angular
+- Kubernetes
 
-### yyyy/mm - yyyy/mm: （前職の企業名。あれば）
+#### [Schoo](https://schoo.jp/class/4923)に出演
 
-職務: サーバーサイドエンジニア
+#### 大手ゲーム会社のKubernetesでの本番ワークロードに向けた運用補佐
 
-#### 職務内容の名前（レストラン検索とか）
+- Cassandra
+- Redis
+- Kuberentes
 
-- 職務内容の詳細を箇条書きでかく
+#### 外部API利用による手書き文字認識Webアプリケーション開発
+
+- Angular
+
+#### Cloud Speech to Textを利用したコールセンター向け通話音声の文字化アプリケーション
+
+- Python
+- Angular
+- Firebase
+
+#### 建設現場で利用する出退勤アプリケーション
+
+- Kubernetes
+- Angular
+
+#### 大手ゲーム会社への半常駐
+
+- Terraform
+
+#### Google Cloud Platform 認定トレーナー業務
+
+- [Architecting](https://www.coursera.org/specializations/gcp-architecture)
+- [Data Engineering](https://www.coursera.org/programs/google-cloud-authorized-trainer-program-ngnti?collectionId=FTUIQ&productId=D6Ap6_7hEeaRogry0hUlXg&productType=s12n&showMiniModal=true)
+- [Kubernetes](https://www.coursera.org/learn/google-kubernetes-engine)
+
+### 2016/04 - 2017/10 : 株式会社トライビート
+
+職務: PHPプログラマ
+
+#### 採用系ウェブアプリケーションの保守開発
+
+- PHP
+- MySQL
+- Vagrant開発環境のDocker化、及びdocker-compose化
 
 ## 課外活動
-
-### 社外プロジェクト
-* [運営に携わっているコミュニティ](そのコミュニティのconnpassやカンファレンスページのリンクとか)
-* [副業で携わっているサービス](そのサービスのランディングページのリンクとか)
+### GCPのユーザーグループへの参加/登壇
 
 ### 過去の登壇資料
-* [Speaker Deck](Speaker Deckの自分の資料のページとか)
+* [connpass](https://connpass.com/user/YukiTominaga/)
 
 ### 受賞歴
-* [イベント名と受賞した賞](イベントのランディングページのリンクや、結果がわかる記事など)
+* AUTHORIZED TRAINER OF THE YEAR'18
+
+世界中のGCP認定トレーナーの中で最も最も有能であると評価された証
 
 ### 執筆歴
-* [書籍の名前](Amazonのリンクとか)
-* [Qiita](Qiitaの自分のプロフィールのリンクとか)
-* [ネットメディアの記事](記事のリンクとか)
-* [SoftwareDesignやWEB+DBのこの月の特集](その月のアーカイブのリンクとか)
-* [技術系同人誌](boothのリンクとか自分のサイトの紹介リンクとか)
+
+* [GCPの教科書](https://www.amazon.co.jp/dp/4865941959/ref=cm_sw_em_r_mt_dp_U_put3CbJDV5EX1)
+* [ネットメディアの記事](https://www.atmarkit.co.jp/ait/articles/1808/20/news024.html)
