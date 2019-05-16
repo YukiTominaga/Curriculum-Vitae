@@ -20,7 +20,7 @@
 ### 言語
 
 - TypeScript
-- Golang
+- Go
 
 ### フレームワーク
 
