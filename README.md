@@ -30,6 +30,8 @@
 
 - Google Cloud Platform
 - Kubernetes
+- Istio
+- Helm
 - Docker
 - Knative
 - Terraform
@@ -50,14 +52,13 @@
 
 ## やったことはないが興味があるもの
 
-- Istio
 - Apigee
 
 ## 職務経歴
 
 ### 2017/11 - 現在 : クラウドエース株式会社
 
-職務: リードエンジニア
+職務: Lead Engineer
 
 #### Cloud Speech to Textを用いた日報の音声入力
 
@@ -92,6 +93,13 @@
 
 - Terraform
 
+#### DRを考慮した金融系システム
+
+- Kubernetes
+- Istio
+- Helm
+- Terraform
+
 #### Google Cloud Platform 認定トレーナー業務
 
 - [Architecting](https://www.coursera.org/specializations/gcp-architecture)
@@ -123,3 +131,4 @@
 
 * [GCPの教科書](https://www.amazon.co.jp/dp/4865941959/ref=cm_sw_em_r_mt_dp_U_put3CbJDV5EX1)
 * [ネットメディアの記事](https://www.atmarkit.co.jp/ait/articles/1808/20/news024.html)
+* Software Design 2019年9月号 GCP特集
