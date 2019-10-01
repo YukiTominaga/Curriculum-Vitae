@@ -117,7 +117,7 @@
 
 ## 登壇歴
 ### Google Cloud OnBoard 大阪 名古屋
-https://cloud.google.com/blog/ja/products/gcp/google-cloud-platform-training-cloud-onboard-20190604
+https://inthecloud.withgoogle.com/onboard-osk-jp-19/register.html?utm_source=google&utm_medium=social&utm_campaign=FY19-Q2-apac-onboard-physicalevent-er-gcp_field_oskjp_onboard_0604_scl&utm_content=gcp_blog
 https://inthecloud.withgoogle.com/onboard-ngy-jp-19/register.html
 
 ## 課外活動
