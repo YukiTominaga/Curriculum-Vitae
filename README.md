@@ -6,7 +6,6 @@
 |---|-----|
 |Name|富永 裕貴 (Yuki Tominaga)|
 |Blog|[apps-gcp](https://www.apps-gcp.com/author/tominaga/)|
-|Twitter|[@XEN_13](https://twitter.com/XEN_13)|
 
 ## 資格
 - Google Certified Professional Cloud Architect (2017/12 ~)
@@ -19,12 +18,11 @@
 ## スキル
 ### 言語
 
-- TypeScript
-- Go
-
-### フレームワーク
-
-- Angular
+- TypeScript(他人のコードをレビューできる)
+- Go(業務ロジックを独力で実装できる)
+- Java(主にApache Beamで使用する程度)
+- Python
+- PHP(経験2年)
 
 ### その他
 
@@ -99,6 +97,7 @@
 - Istio
 - Helm
 - Terraform
+- helmfile
 
 #### Google Cloud Platform 認定トレーナー業務
 
@@ -116,6 +115,11 @@
 - MySQL
 - Vagrant開発環境のDocker化、及びdocker-compose化
 
+## 登壇歴
+### Google Cloud OnBoard 大阪 名古屋
+https://cloud.google.com/blog/ja/products/gcp/google-cloud-platform-training-cloud-onboard-20190604
+https://inthecloud.withgoogle.com/onboard-ngy-jp-19/register.html
+
 ## 課外活動
 ### GCPのユーザーグループへの参加/登壇
 
@@ -129,6 +133,5 @@
 
 ### 執筆歴
 
-* [GCPの教科書](https://www.amazon.co.jp/dp/4865941959/ref=cm_sw_em_r_mt_dp_U_put3CbJDV5EX1)
 * [ネットメディアの記事](https://www.atmarkit.co.jp/ait/articles/1808/20/news024.html)
 * Software Design 2019年9月号 GCP特集
