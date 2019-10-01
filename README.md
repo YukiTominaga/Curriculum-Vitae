@@ -129,7 +129,7 @@ https://inthecloud.withgoogle.com/onboard-ngy-jp-19/register.html
 ### 受賞歴
 * AUTHORIZED TRAINER OF THE YEAR'18
 
-世界中のGCP認定トレーナーの中で最も最も有能であると評価された証
+世界中のGCP認定トレーナーの中で最も有能であると評価された証
 
 ### 執筆歴
 
