@@ -46,11 +46,12 @@
 ## 強み
 
 - Google Cloud Authorized Trainer
-- FFXIV 7200時間以上プレイ
+- FFXIV 7500時間以上プレイ
 
 ## やったことはないが興味があるもの
 
 - Apigee
+- 英語のSpeaking & Listening
 
 ## 職務経歴
 
@@ -117,14 +118,19 @@
 
 ## 登壇歴
 ### Google Cloud OnBoard 大阪 名古屋
-https://inthecloud.withgoogle.com/onboard-osk-jp-19/register.html?utm_source=google&utm_medium=social&utm_campaign=FY19-Q2-apac-onboard-physicalevent-er-gcp_field_oskjp_onboard_0604_scl&utm_content=gcp_blog
-https://inthecloud.withgoogle.com/onboard-ngy-jp-19/register.html
+- https://inthecloud.withgoogle.com/onboard-osk-jp-19/register.html?utm_source=google&utm_medium=social&utm_campaign=FY19-Q2-apac-onboard-physicalevent-er-gcp_field_oskjp_onboard_0604_scl&utm_content=gcp_blog
+- https://inthecloud.withgoogle.com/onboard-ngy-jp-19/register.html
+
+### 翔泳社主催 Codezine Academy
+- https://event.shoeisha.jp/cza/20190927
 
 ## 課外活動
 ### GCPのユーザーグループへの参加/登壇
 
 ### 過去の登壇資料
 * [connpass](https://connpass.com/user/YukiTominaga/)
+* [codezine](https://drive.google.com/open?id=1NbZgrMJF1QzxCe3lYlvURgVDzxmWAM1hZagsjErYQ6k)
+* [KubernetesDay](https://drive.google.com/open?id=1NbZgrMJF1QzxCe3lYlvURgVDzxmWAM1hZagsjErYQ6k)
 
 ### 受賞歴
 * AUTHORIZED TRAINER OF THE YEAR'18
