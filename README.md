@@ -66,7 +66,7 @@
 
 #### [Schoo](https://schoo.jp/class/4923)に出演
 
-#### 大手ゲーム会社のKubernetesでの本番ワークロードに向けた運用補佐
+#### KubernetesにデプロイしたDBへの負荷試験検証
 
 - Cassandra
 - Redis
