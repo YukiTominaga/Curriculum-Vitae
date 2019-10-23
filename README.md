@@ -130,7 +130,6 @@
 ### 過去の登壇資料
 * [connpass](https://connpass.com/user/YukiTominaga/)
 * [codezine](https://drive.google.com/open?id=1NbZgrMJF1QzxCe3lYlvURgVDzxmWAM1hZagsjErYQ6k)
-* [KubernetesDay](https://drive.google.com/open?id=1NbZgrMJF1QzxCe3lYlvURgVDzxmWAM1hZagsjErYQ6k)
 
 ### 受賞歴
 * AUTHORIZED TRAINER OF THE YEAR'18
@@ -141,3 +140,40 @@
 
 * [ネットメディアの記事](https://www.atmarkit.co.jp/ait/articles/1808/20/news024.html)
 * Software Design 2019年9月号 GCP特集
+
+## 各OSS/製品に対して業務レベルで取り組めること
+
+### Kubernetes(GoogleKubernetesEngineを含む)
+* Podを起動する各リソースのデプロイ
+* 想定クエリ/リクエスト量に対する各コンテナへのresroucesの検証と設定
+** これに伴うNodeのマシンタイプの設計
+* taint, affinity, priorityを利用したPodの配置戦略
+* PodSecurityPolicyの策定
+* RBACの設定とGoogleアカウントとの連携
+* Helmを用いたマニフェストファイル共通化の取り組み
+* helmfileを用いたマニフェストファイルのマルチ環境化
+* その他GKEにまつわるIAPやWorkroadIdentityの設定
+
+### Istio
+* virturalservice, gateway, destinationruleなど基本要素の理解とマニフェストファイルの作成
+* circuit-breakerの動作検証
+* NodePort ingressgatewayとGCPのHTTP負荷分散を用いたマルチリージョンへの展開(動作検証中)
+
+### Terraform
+* localsを利用したマルチ環境への適用を考慮したコーディング
+* terraform moduleを利用した定義ファイルの集約
+
+### Angular
+* クリーンアーキテクチャーを意識した設計
+* 単体テストのコーディング
+
+## できそうに見られるけどできないこと
+* アドレスレンジなどを考慮したネットワークの設計
+* vmwareなどのオンプレミス環境の運用
+* 複雑なSQLの記述
+* windowsでの開発
+* 基本的にネットワークに関することは苦手
+
+## その他
+GCPのトレーニングでは、ArchitectとData Engineeringの両方を務めているので、ほぼ全ての製品に対して基礎は確実に抑えています。
+実務レベルで使ったことの無い主なサービスは、`Dataproc`, `Cloud Router`, `BigTable`, `Spanner`, `各種相互接続`, `IoT Core`, `最近出てきたAutoML`です。
