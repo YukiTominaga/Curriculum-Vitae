@@ -16,13 +16,13 @@
 - Google Cloud Authorized Trainer               (2018/05 ~)
 
 ## スキル
-### 言語
+### プログラミング言語
 
-- TypeScript(他人のコードをレビューできる)
+- TypeScript/JavaScript(他人のコードをレビューできる)
 - Go(業務ロジックを独力で実装できる)
 - Java(主にApache Beamで使用する程度)
-- Python
-- PHP(経験2年)
+- Python(できればやりたくない)
+- PHP(経験2年弱)
 
 ### その他
 
@@ -50,8 +50,9 @@
 
 ## やったことはないが興味があるもの
 
-- Apigee
 - 英語のSpeaking & Listening
+- Job実行基盤としてのspinnaker
+- 大規模トラフィックへのクラウド技術の適用
 
 ## 職務経歴
 
@@ -140,6 +141,9 @@
 
 * [ネットメディアの記事](https://www.atmarkit.co.jp/ait/articles/1808/20/news024.html)
 * Software Design 2019年9月号 GCP特集
+
+### 社内ブログ記事
+https://apps-gcp.com/author/tominaga/
 
 ## 各OSS/製品に対して業務レベルで取り組めること
 
