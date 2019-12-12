@@ -110,7 +110,7 @@
 - [Data Engineering](https://www.coursera.org/programs/google-cloud-authorized-trainer-program-ngnti?collectionId=FTUIQ&productId=D6Ap6_7hEeaRogry0hUlXg&productType=s12n&showMiniModal=true)
 - [Kubernetes](https://www.coursera.org/learn/google-kubernetes-engine)
 
-### 2016/04 - 2017/10 : 株式会社トライビート
+### 2016/04 - 2017/11 : 株式会社トライビート
 
 職務: PHPプログラマ
 
