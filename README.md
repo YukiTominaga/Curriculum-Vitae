@@ -13,7 +13,9 @@
 - Google Certified Professional Cloud Developer (2019/01 ~) 
 - Google Certified Associate Cloud Engineer     (2018/08 ~)
 - Certified Kubernetes Application Developer    (2019/03 ~)
+- Certified Kubernetes Administrator            (2019/12 ~)
 - Google Cloud Authorized Trainer               (2018/05 ~)
+- AWS Associate Cloud Architect                 (2017/06 ~)(失効)
 
 ## スキル
 ### プログラミング言語
@@ -36,7 +38,7 @@
 - Pulumi
 - Prometheus(PSQLチョット書ける)
 - Grafana(Prometheusのメトリクスを可視化するためにちょっとだけ使用)
-- Datadog(1環境の監視をやったことがある程度)
+- Datadog(Kubernetesの監視をちょっとやったことがある程度)
 
 ## 言語
 
@@ -44,10 +46,13 @@
   - ネイティブ
 - 英語
   - 技術文書のReading
-  - 英語サポート窓口への英語での問い合わせ(中学生みたいな文章で訊きたいことを伝えられる、それでも過去に困ったことがないので、英語圏の人は優しい)
+  - 英語サポート窓口への英語での問い合わせ(中学生みたいな文章で訊きたいことを伝えられる。それでも過去に困ったことがないので、英語圏の人は優しい)
 
 ## 強み
 
+- GCPへの深い知識
+- パブリッククラウド技術の追い方
+- 人前で話すの超得意
 - Google Cloud Authorized Trainer
 - FFXIV 7500時間以上プレイ
 
@@ -124,6 +129,7 @@
 ### Google Cloud OnBoard 大阪 名古屋
 - https://inthecloud.withgoogle.com/onboard-osk-jp-19/register.html?utm_source=google&utm_medium=social&utm_campaign=FY19-Q2-apac-onboard-physicalevent-er-gcp_field_oskjp_onboard_0604_scl&utm_content=gcp_blog
 - https://inthecloud.withgoogle.com/onboard-ngy-jp-19/register.html
+- その他たくさん
 
 ### 翔泳社主催 Codezine Academy
 - https://event.shoeisha.jp/cza/20190927
@@ -182,5 +188,5 @@ https://apps-gcp.com/author/tominaga/
 * 基本的にネットワークに関することは苦手
 
 ## その他
-GCPのトレーニングでは、ArchitectとData Engineeringの両方を務めているので、ほぼ全ての製品に対して基礎は確実に抑えています。
+GCPのトレーニングでは、ArchitectとData Engineeringの両方を務めているので、GCP内のほぼ全ての製品に対して基礎は確実に抑えています。
 実務レベルで使ったことの無い主なサービスは、`Dataproc`, `Cloud Router`, `BigTable`, `Spanner`, `各種相互接続`, `IoT Core`, `最近出てきたAutoML`です。
