@@ -16,7 +16,7 @@
 - Certified Kubernetes Application Developer    (2019/03 ~)
 - Certified Kubernetes Administrator            (2019/12 ~)
 - Google Cloud Authorized Trainer               (2018/05 ~)
-- AWS Associate Cloud Architect                 (2017/06 ~)(失効)
+- AWS Associate Cloud Architect                 (2017/06 ~)
 
 ## スキル
 ### プログラミング言語
