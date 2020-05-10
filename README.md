@@ -192,4 +192,4 @@ https://apps-gcp.com/author/tominaga/
 
 ## その他
 GCPのトレーニングでは、ArchitectとData Engineeringの両方を務めているので、GCP内のほぼ全ての製品に対して基礎は確実に抑えています。
-実務レベルで使ったことの無い主なサービスは、`Dataproc`, `Cloud Router`, `BigTable`, `Spanner`, `各種相互接続`, `IoT Core`, `最近出てきたAutoML`です。
+実務レベルで使ったことの無い主なサービスは、`Dataproc`, `Cloud Router`, `Bigtable`, `Spanner`, `各種相互接続`, `IoT Core`, `最近出てきたAutoML`です。
